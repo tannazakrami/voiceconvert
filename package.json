@@ -18,6 +18,8 @@
     "convert-audio": "^1.0.1",
     "dotenv": "^16.0.2",
     "express": "^4.18.1",
+    "got": "^12.4.1",
+    "https": "^1.0.0",
     "node-telegram-bot-api": "0.59.0",
     "npm-git-install": "^0.3.0",
     "sox": "^0.1.0",
